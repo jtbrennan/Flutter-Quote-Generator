@@ -8,7 +8,7 @@ This application is a random quotes generating application which fetches quotes 
 
 [Link to the Project](https://zf1k06wyf1l0.zapp.page/#/)
 
-[Link to the Code in Development]([https://zf1k06wyf1l0.zapp.page/#/](https://zapp.run/edit/flutter-zf1k06wyf1l0?lazy=false&split=50&entry=lib/main.dart&file=lib/main.dart))
+[Link to the Code in Development](https://zapp.run/edit/flutter-zf1k06wyf1l0?lazy=false&split=50&entry=lib/main.dart&file=lib/main.dart)
 
 #
 
