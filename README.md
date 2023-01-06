@@ -1,8 +1,8 @@
 # Flutter app in Zapp!
 
-A new Flutter project.
+A Flutter project.
 
-## Getting Started
+## The Project
 
 This application is a random quotes generating application which fetches quotes from api.quotable.io.
 
