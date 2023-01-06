@@ -7,7 +7,7 @@ A new Flutter project.
 This application is a random quotes generating application which fetches quotes from api.quotable.io.
 
 [Link to the Project](https://zf1k06wyf1l0.zapp.page/#/)
-#
+
 [Link to the Code in Development](https://zf1k06wyf1l0.zapp.page/#/)
 
 A few resources to get you started if this is your first Flutter project:
